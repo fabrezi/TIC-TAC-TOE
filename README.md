@@ -26,8 +26,11 @@ NodeJS
 
 - [x] setup the npm project
 - [x] setup the server
-- [x] html template for the UI
-- [] run the server and access url
+- [?] html template for the UI 
+   - the page will have only a title and the board (3x3)
+   - board must be in center, large-size and clear in view
+   - the layout and font and color is tentative
+- [x] run the server and access url
 - [] implement tic-tac algorithm
 - [] test the algorithm
 - [] add reload page functionlaity
