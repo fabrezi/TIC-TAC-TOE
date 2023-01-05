@@ -26,7 +26,7 @@ NodeJS
 
 - [x] setup the npm project
 - [x] setup the server
-- [] html template for the UI
+- [x] html template for the UI
 - [] run the server and access url
 - [] implement tic-tac algorithm
 - [] test the algorithm
