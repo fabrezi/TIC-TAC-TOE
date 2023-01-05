@@ -25,7 +25,7 @@ NodeJS
 ## Checklist
 
 - [x] setup the npm project
-- [] setup the server
+- [x] setup the server
 - [] html template for the UI
 - [] run the server and access url
 - [] implement tic-tac algorithm
