@@ -8,8 +8,8 @@ NodeJS
 
 ## Setup
 
-- Run the server `node`
-- ?
+- npm package: `npm install`
+- Run the server: `node server.js`
 
 
 ## Layout
