@@ -10,6 +10,10 @@ app.get('/', (req,res) => {
     res.sendFile(path.join(__dirname, 'index.html'))
 })
 
+//this method doesnt work. It can be a chore to make the UI
+//run with the express.static command.
+//app.use(express.static(path.join(__dirname, 'index.html')))
+
 app.listen(port, () => {
     console.log("Click here:" , `http://localhost:${port}`)
 })
