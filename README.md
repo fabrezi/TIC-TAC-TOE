@@ -4,7 +4,7 @@ The task is to make a single player tic-tac game which is accessed through web o
 
 ## Tech Stack
 
-NodeJS,HTML5..maybe React?
+NodeJS,HTML5.
 
 ## Setup
 
