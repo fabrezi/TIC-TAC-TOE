@@ -4,7 +4,7 @@ The task is to make a single player tic-tac game which is accessed through web o
 
 ## Tech Stack
 
-NodeJS,HTML5.
+Nodes.
 
 ## Setup
 
@@ -20,7 +20,11 @@ NodeJS,HTML5.
 - once the game completes, display result (win,lose,draw)
 - restart the game after a short pause
 - no buttons of any kind
-- instead of `x` and `o` add an image of `kermit` and `bert`
+- instead of `x` and `o` add an image of `kermit` and `bert` [??]
+
+## How to play
+
+- the user 
 
 ## Checklist
 
